@@ -1,2 +1,4 @@
 # hello-world
-I am using this repository to complet my tutorial on GitHub.
+Hello world!
+
+CookieLover here. I love cookies. Please make me cookies.
